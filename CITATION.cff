@@ -1,0 +1,25 @@
+ff-version: 1.2.0
+title: "BA2 Digital Korea — Final Paper 4111850"
+message: "If you use this research/analysis from this repository, please cite both this menu."
+type: dataset
+authors:
+  - family-names: van der Veen
+    given-names: Puck
+    affiliation: "Studies, Leiden University"
+    email: p.van.der.veen@umail.leidenuniv.nl
+date-released: 2026-05-18
+url: "https://github.com/hanrangi/ba2-final-paper-4111850"
+repository-code: "https://github.com/hanrangi/ba2-final-paper-4111850"
+license: CC-BY-4.0
+keywords:
+  - Korean studies
+  - text-as-data
+  - computational text analysis
+references:
+  - type: type
+    title: "title of repository"
+    authors:
+      - family-names: 
+        given-names: 
+    url: "https://github.com/username/repository_name"
+    notes: "Notes"
